@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922998874652",
+    "project_id": "ia-bookkeeping",
+    "storage_bucket": "ia-bookkeeping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922998874652:android:ec7dbf1b68c597567e35d9",
+        "android_client_info": {
+          "package_name": "com.example.ia_bookkeepingwithfinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922998874652-0l7d3l93v7gvvm8brdsrdnss2b5bqk9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeukW4Frl0zJkmxZtl4bDgBscZBFxxUOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922998874652-0l7d3l93v7gvvm8brdsrdnss2b5bqk9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
